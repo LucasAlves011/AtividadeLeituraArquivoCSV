@@ -54,7 +54,7 @@ public class Teste001 {
                 "A proporção de crimes contra mulheres é de %d %%",controle.proporcaoHM(),100-controle.proporcaoHM());
 
         System.out.println("\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - -");
-        System.out.println("Data com mais crimes :" + controle.dataComMaisCrimes());
+        System.out.println(" Data com mais crimes :" + controle.dataComMaisCrimes());
 
 
     }
